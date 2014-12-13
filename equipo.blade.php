@@ -304,11 +304,11 @@
 										<li>
 											<a href="#">Form Elements</a>
 										</li>
-										<li>Heroes</li>
+										<li>Equipo</li>
 									</ul>
 									<!-- /BREADCRUMBS -->
 									<div class="clearfix">
-										<h3 class="content-title pull-left">Heroes</h3>
+										<h3 class="content-title pull-left">Equipo</h3>
 									</div>
 									<div class="description">Ingrese todos los datos</div>
 								</div>
